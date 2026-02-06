@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://your-phase-1-subdomain.vercel.app/sitemap.xml
