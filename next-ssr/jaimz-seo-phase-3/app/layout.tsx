@@ -15,6 +15,10 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Jaimz SEO Phase 3: Next.js SSR Test",
   description: "Phase 3 of the Jaimz SEO experiment testing Server-Side Rendering (SSR) for ZynthoKinetix-2026.",
+  verification: {
+    google: "aNcwxSgzUwTYpkOs5KyWRsmsTtiXTrtKLBu0ZJj-DWQ",
+  },
+  
 };
 
 export default function RootLayout({
