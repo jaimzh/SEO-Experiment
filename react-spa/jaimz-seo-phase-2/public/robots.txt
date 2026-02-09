@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://your-react-project.vercel.app/sitemap.xml
