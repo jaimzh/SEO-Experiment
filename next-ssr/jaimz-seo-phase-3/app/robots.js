@@ -4,6 +4,6 @@ export default function robots() {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://your-nextjs-project.vercel.app/sitemap.xml',
+    sitemap: 'https://seo-experiment-nextjs.vercel.app/sitemap.xml',
   }
 }
